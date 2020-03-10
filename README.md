@@ -1,2 +1,2 @@
-# ticTacToeProlog
-play tic tac toe, just one player.
+#EXAMPLES PROLOG
+Some examples using logic programming for educational purposes
